@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukeroy
 - 👀 I’m interested in spatial informatics and spatial databases
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning data stream management systems
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me - email: luke.roy@maine.edu
